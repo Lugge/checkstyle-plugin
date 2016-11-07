@@ -17,6 +17,7 @@ public class JenkinsProjectDummyWarning {
         boolean Next=false;
         boolean Next2=false;
         boolean Next3=false;
+        boolean Next4=false;
         return;
     }
 }
