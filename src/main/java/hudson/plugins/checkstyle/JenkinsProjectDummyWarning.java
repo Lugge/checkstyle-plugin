@@ -13,6 +13,8 @@ public class JenkinsProjectDummyWarning {
         if(true){
             return;
         }
+
+        boolean Next=false;
         return;
     }
 }
