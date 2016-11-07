@@ -10,6 +10,9 @@ public class JenkinsProjectDummyWarning {
 
     public void dummyMethodWithStyleErrors(){
                         boolean wrongIndentation = true;
+        if(true){
+            return;
+        }
         return;
     }
 }
