@@ -22,6 +22,8 @@ public class JenkinsProjectDummyWarning {
         boolean Next6=false;
         boolean Next7=false;
         boolean Next8=false;
+        Next8=false;
+        int CamelCASEError = 0;
         return;
     }
 }
